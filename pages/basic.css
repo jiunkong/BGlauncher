@@ -1,0 +1,17 @@
+.light-text {
+    font-family: NotoSansKR-Light;
+}
+
+.thin-text {
+    font-family: NotoSansKR-Thin;
+}
+
+@font-face {
+    font-family: NotoSansKR-Light;
+    src: url('../assets/fonts/NotoSansKR-Light.otf');
+}
+
+@font-face {
+    font-family: NotoSansKR-Thin;
+    src: url('../assets/fonts/NotoSansKR-Thin.otf');
+}

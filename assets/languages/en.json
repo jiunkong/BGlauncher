@@ -1,0 +1,10 @@
+{
+    "language": {
+        "english": "English (영어)",
+        "korean": "Korean (한국어)"
+    },
+    "startPage": {
+        "create new server": "Create New Server",
+        "open": "Open"
+    }
+}

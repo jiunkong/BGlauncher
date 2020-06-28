@@ -1,0 +1,10 @@
+{
+    "language": {
+        "english": "영어 (English)",
+        "korean": "한국어 (Korean)"
+    },
+    "startPage": {
+        "create new server": "새로운 서버 만들기",
+        "open": "불러오기"
+    }
+}

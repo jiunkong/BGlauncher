@@ -1,0 +1,26 @@
+{
+  "name": "bg-launcher",
+  "version": "1.0.0",
+  "description": "A minecraft gui server launcher",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron .",
+    "css-build": "postcss css/tailwind.css -o public/build/tailwind.css"
+  },
+  "author": "Bukgeuk_",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "autoprefixer": "^9.8.4",
+    "child_process": "^1.0.2",
+    "custom-electron-titlebar": "^3.2.2-hotfix62",
+    "ejs-electron": "^2.0.3",
+    "electron": "^9.0.5"
+  },
+  "devDependencies": {
+    "tailwindcss": "^1.4.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/Bukgeuk/BGlauncher"
+  }
+}

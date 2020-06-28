@@ -1,0 +1,83 @@
+.main {
+    background-color: #45474a;
+    padding-top: 28px;
+    height: 100vh;
+}
+
+.text {
+    color: #bbbbbb;
+}
+
+#version {
+    color: #808080;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn-group {
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.btn-group > div {
+    margin-top: 20px;
+    vertical-align: middle;
+    height: 24px;
+    width: fit-content;
+}
+
+.btn-group > div > img {
+    display: inline-block;
+    padding-bottom: 4px;
+}
+
+.btn-group span {
+    font-size: 0.9rem;
+}
+
+.btn-group span:hover {
+    color: #ba6f25;
+}
+
+.btn span {
+    font-size: 0.9rem;
+}
+
+header {
+    padding-bottom: 20px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+}
+
+footer > img {
+    margin: 5px 5px 5px 5px;
+    float: right;
+}
+
+select {
+    background: transparent;
+    padding-left: 5px;
+}
+
+select:focus {
+    outline: none;
+}
+
+select option {
+    background-color: #3c3f41;
+}
+
+.footer-display {
+    display: inline-block;
+}
+
+.selectbox {
+    width: fit-content;
+}
