@@ -14,7 +14,7 @@
     "child_process": "^1.0.2",
     "custom-electron-titlebar": "^3.2.2-hotfix62",
     "ejs-electron": "^2.0.3",
-    "electron": "^9.0.5"
+    "electron": "^9.3.0"
   },
   "devDependencies": {
     "tailwindcss": "^1.4.6"
